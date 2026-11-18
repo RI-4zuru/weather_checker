@@ -1,11 +1,7 @@
 {
-  "text": "2026年11月17日(火)16時08分\n\n【現時点での防災気象情報の発表の見通しなど】\n・18日にかけて、警報を発表する可能性は低い見込みです。\n\n【主な防災情報のURL/リンク】\n台風情報\n気象防災速報・気象解説情報等：滋賀県\n気象警報・注意報：滋賀県\n早期注意情報（警報級の可能性）：滋賀県\n時系列情報（明日までの警報等の見通し）：滋賀県\n雨雲の動き\n今後の雨\nキキクル\n背景色について",
-  "bgcolor": "white",
+  "text": "2026年11月18日(水)10時30分\n\n【現時点での防災気象情報の発表の見通しなど】\n・19日にかけて、警報を発表する可能性はありません。\n・19日から21日頃にかけては、上空に寒気が流れ込むため風が強まり、標高の高い山では雪の降るおそれがありますので留意してください。\n\n【主な防災情報のURL/リンク】\n気象防災速報・気象解説情報等：滋賀県\n気象警報・注意報：滋賀県\n早期注意情報（警報級の可能性）：滋賀県\n時系列情報（明日までの警報等の見通し）：滋賀県\n雨雲の動き\n今後の雨\n今後の雪\nキキクル\n背景色について",
+  "bgcolor": "#ffffcc",
   "links": [
-    {
-      "label": "台風情報",
-      "url": "http://www.jma.go.jp/bosai/map.html#5/34.5/137/&elem=root&typhoon=all&contents=typhoon"
-    },
     {
       "label": "気象防災速報・気象解説情報等：滋賀県",
       "url": "https://www.jma.go.jp/bosai/information/#area_type=offices&area_code=250000&format=table&offices_page=0&centers_page=0&japan_page=0"
@@ -29,6 +25,10 @@
     {
       "label": "今後の雨",
       "url": "https://www.jma.go.jp/bosai/kaikotan/#zoom:9/lat:35.247862/lon:136.124725/colordepth:normal/elements:rasrf"
+    },
+    {
+      "label": "今後の雪",
+      "url": "https://www.jma.go.jp/bosai/snow/#lat:35.247862/lon:136.124725/zoom:9/colordepth:normal/elements:snowd"
     },
     {
       "label": "キキクル",
